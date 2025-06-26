@@ -1,18 +1,7 @@
-# 👋 I'm Garrett Ormsby
-
-# 🏋️‍♀️ About Me:
-I am a third-year computer sceince student at the University of Iowa, passionate about exploring the realms of coding, embedded systems, machine learning, and building robust applications.
-
-# 🎫 What I'm Up To
-
-  - 🤖 Exploring Machine Learning with [scikit-learn](https://scikit-learn.org/)
-  - 💻 Building Full-stack React/Node applications with PostgreSQL
-
-## 🌐 Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/garrett-ormsby-4ab230141/)
 
-# 💻 Tech Stack:
+# Tech Stack:
 
 Languages: 
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) 
